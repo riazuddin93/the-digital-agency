@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+   
+    /* overflow-x: hidden; */
+
+}
+.hero{
+    position: relative;
+    height: 1000px;
+}
+.context{
+    display: flex;
+    position: absolute;
+}
+
+.context img{
+  position: absolute;
+    /* width: 100%; */
+ 
+}
+.e{
+    position: static;
+    height: 500px;
+    background-color: aqua;
+}
